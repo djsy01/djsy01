@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=compact" alt="djsy's GitHub datas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="djsy's GitHub datas" />
 </p>
 
 <p align="center">
