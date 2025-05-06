@@ -1,5 +1,7 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=300&section=header&text=Glowing%20Developer&fontSize=90)
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=300&section=header&text=Glowing%20Developer&fontSize=90" alt="Header" />
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
