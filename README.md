@@ -41,4 +41,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=compact)
 </p>
