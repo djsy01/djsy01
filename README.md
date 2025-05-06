@@ -1,5 +1,6 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?text=Growing%developer&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text=Glowing%Developer)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
