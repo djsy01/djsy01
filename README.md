@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=300&section=header&text=Glowing%20Developer&fontSize=90" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EEFF00,100:a82da8&height=220&section=header&text=Glowing%20Developer&fontSize=90" alt="Header" />
 </p>
 
 <!--내용 부분-->
