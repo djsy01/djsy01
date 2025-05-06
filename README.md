@@ -1,5 +1,9 @@
 <!--타이틀 부분-->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -37,5 +41,6 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+</p>
