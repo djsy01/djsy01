@@ -41,5 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical" alt="djsy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=dark" alt="djsy's GitHub datas" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=compact" alt="djsy's GitHub datas" />
 </p>
