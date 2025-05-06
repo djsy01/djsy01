@@ -1,8 +1,6 @@
 <!--타이틀 부분-->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자" alt="Typing SVG" />
 </p>
 
 <!--내용 부분-->
