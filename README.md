@@ -27,12 +27,12 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<div align="center" style="font-size: 0;">
   <a href="https://github.com/djsy01" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 5px;" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://exclusive-restaurant-e3e.notion.site/1eb23e23d9b8803e9cacee5ec21da00e?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" style="margin-right: 5px;" />
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
 </div>
