@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자)]
 </p>
 
 <!--내용 부분-->
