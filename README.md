@@ -37,5 +37,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djsy01&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" width="300" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical" width="330" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical" width="335" alt="GitHub Stats" />
 </p>
