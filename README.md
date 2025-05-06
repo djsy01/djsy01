@@ -34,7 +34,9 @@
   <a href="https://exclusive-restaurant-e3e.notion.site/1eb23e23d9b8803e9cacee5ec21da00e?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   </a>
+  <br>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+  <img src="https://img.shields.io/badge/Xcode?style=for-the-badge&logo=Xcode&logoColor=22ABF3" />  
 </div>
 
 <br>
