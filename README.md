@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자)](https://git.io/typing-svg)
 </div>
 
 <!--내용 부분-->
@@ -39,4 +39,6 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsy01&show_icons=true&theme=radical)
+</div>
