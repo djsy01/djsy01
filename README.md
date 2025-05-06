@@ -1,7 +1,5 @@
 <!--타이틀 부분-->
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Newbie;Growing+developer)](https://git.io/typing-svg)
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
