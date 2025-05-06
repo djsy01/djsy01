@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=뉴비;성장하는+개발자)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EB%89%B4%EB%B9%84;%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
 </p>
 
 <!--내용 부분-->
