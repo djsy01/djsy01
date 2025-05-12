@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/>
-  <img src="https://img.shields.io/badge/node.js-#5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=#5FA04E" />
+  <img src="https://img.shields.io/badge/nodedotjs-#5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" />
 </div>
 
 <br>
