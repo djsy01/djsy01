@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-  <img src="[https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000)" />
+  <img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
