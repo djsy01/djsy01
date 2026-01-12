@@ -31,10 +31,10 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center" style="font-size: 0;">
   <a href="https://github.com/djsy01" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" />
   </a>
   <a href="https://exclusive-restaurant-e3e.notion.site/uminho" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
   </a>
   <br>
   <img src="https://img.icons8.com/?size=100&id=51974&format=png&color=000000"/>
