@@ -45,7 +45,7 @@
 |   상태    | 프로젝트          |   역할    |                            GitHub                             |                          홈페이지                           |
 | :-------: | :---------------- | :-------: | :-----------------------------------------------------------: | :---------------------------------------------------------: |
 | 🔧 진행중 | obedworship       | Frontend  |        [GitHub](https://github.com/djsy01/obedworship)        |        [🌐 바로가기](https://obedworship.vercel.app)        |
-| 🔧 진행중 | worshiplog        | Fullstack |        [GitHub](https://github.com/djsy01/worshiplog)         |        [🌐 바로가기](https://worshiplog.vercel.app/)        |
+| 🔧 진행중 | worshiplog        | Fullstack |        [GitHub](https://github.com/djsy01/worshiplog)         |                                                             |
 | 🔧 진행중 | ticketingsitedemo | Frontend  | [GitHub](https://github.com/LeopoldBloom2K/ticketingsitedemo) |                                                             |
 |  ✅ 완료  | Portfolio         | Fullstack |         [GitHub](https://github.com/djsy01/Portfolio)         | [🌐 바로가기](https://portfolio-djsys-projects.vercel.app/) |
 
