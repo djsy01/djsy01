@@ -49,7 +49,7 @@
 | 🔧 진행중 | obedworship       | Frontend  |        [GitHub](https://github.com/djsy01/obedworship)        |        [🌐 바로가기](https://obedworship.vercel.app)        |
 | 🔧 진행중 | worshiplog        | Fullstack |        [GitHub](https://github.com/djsy01/worshiplog)         |                                                             |
 | 🔧 진행중 | ticketingsitedemo | Frontend  | [GitHub](https://github.com/LeopoldBloom2K/ticketingsitedemo) |                                                             |
-| 🔧 진행중 | poke-archive      | Frontend  |    [GitHub]((https://github.com/gyuhwa9922/poke-archive))     |                                                             |
+| 🔧 진행중 | poke-archive      | Frontend  |     [GitHub](https://github.com/gyuhwa9922/poke-archive)      |                                                             |
 |  ✅ 완료  | pocketarchive     | Frontend  |                                                               |      [🌐 바로가기](https://pocketarchive.netlify.app)       |
 |  ✅ 완료  | Portfolio         | Fullstack |         [GitHub](https://github.com/djsy01/Portfolio)         | [🌐 바로가기](https://portfolio-djsys-projects.vercel.app/) |
 
