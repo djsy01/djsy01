@@ -48,6 +48,7 @@
 | :-------: | :----------- | :-------: | :--------------------------------------------------: | :-------------------------------------------: |
 | 🔧 진행중 | obedworship  | Frontend  |   [GitHub](https://github.com/djsy01/obedworship)    | [🌐 바로가기](https://obedworship.vercel.app) |
 | 🔧 진행중 | worshiplog   | Fullstack |    [GitHub](https://github.com/djsy01/worshiplog)    | [🌐 바로가기](https://worshiplog.inho.pe.kr)  |
+| 🔧 진행중 | CookEat      | Fullstack |                     비공개 레포                      |                     미정                      |
 |  ✅ 완료  | poke-archive | Frontend  | [GitHub](https://github.com/gyuhwa9922/poke-archive) |                                               |
 |  ✅ 완료  | Portfolio    | Fullstack |    [GitHub](https://github.com/djsy01/Portfolio)     |  [🌐 바로가기](https://portfolio.inho.pe.kr)  |
 
